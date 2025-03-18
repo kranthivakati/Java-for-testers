@@ -23,7 +23,7 @@ Java serves two primary purposes:
 
 Java can be classified into two ways :
 
-1.core java -> Testers need to learn completely 
+1.core java -> Both Testers and developers need's to learn basement i.e core java
 
 2.advance java -> Testers no need to learn only developers need to learn 
 
