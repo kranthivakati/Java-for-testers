@@ -16,6 +16,7 @@ Java is one of the popular programming languages in the current market. There ar
 Purpose of Java
 
 Java serves two primary purposes:
+
 1.For Developers: Java is used to develop applications.
 2.For Testers: Java is used to write test automation scripts for testing applications.
 
