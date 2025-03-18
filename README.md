@@ -10,10 +10,13 @@ Hi, I’m Kranthi, a full-time QA professional passionate about learning Java pr
 Once Java and Eclipse are installed, we’ll dive deep into learning Java!
 
 What is Java?
+
 Java is one of the popular programming languages in the current market. There are many programming languages available, such as Python, C#, C, and Ruby.
 
 Purpose of Java
 Java serves two primary purposes:
+
 For Developers: Java is used to develop applications.
+
 For Testers: Java is used to write test automation scripts for testing applications.
 
