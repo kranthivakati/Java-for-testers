@@ -42,6 +42,8 @@ For example, if a user writes C code on a Windows machine and later needs to run
 For this we need have java , eclipse in our machine.
 
 visit eclipse click on file -> create a java project ->name the project name ->after creating a project  expand the project then right click on src and create a new package and create a new class 
+
 inside the class write like this 
+
 ![image](https://github.com/user-attachments/assets/4ccfa53a-5fc1-4f04-9a2c-762671264cd1)
 
