@@ -36,3 +36,12 @@ consider this an example
 C is not a fully platform-independent programming language. Unlike Java, C programs need to be compiled separately for each operating system.
 
 For example, if a user writes C code on a Windows machine and later needs to run it on another operating system, they must recompile the code on that specific OS. The same code can be used, but it requires a separate compilation process for each platform.
+
+**Creating a java Project**
+
+For this we need have java , eclipse in our machine.
+
+visit eclipse click on file -> create a java project ->name the project name ->after creating a project  expand the project then right click on src and create a new package and create a new class 
+inside the class write like this 
+![image](https://github.com/user-attachments/assets/4ccfa53a-5fc1-4f04-9a2c-762671264cd1)
+
