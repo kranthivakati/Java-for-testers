@@ -26,3 +26,13 @@ Java can be classified into two ways :
 1.core java -> Testers need to learn completely 
 
 2.advance java -> Testers no need to learn only developers need to learn 
+
+**Java is a Object oriented Programming language will discuss this later**
+
+Java is a platform-independent programming language, meaning **"write once, run anywhere."** This means that if a user writes code on a Windows machine and later needs to run it on a different operating system, the same code will work without any modifications. There’s no need to rewrite the code for different operating systems.
+
+consider this an example 
+
+C is not a fully platform-independent programming language. Unlike Java, C programs need to be compiled separately for each operating system.
+
+For example, if a user writes C code on a Windows machine and later needs to run it on another operating system, they must recompile the code on that specific OS. The same code can be used, but it requires a separate compilation process for each platform.
