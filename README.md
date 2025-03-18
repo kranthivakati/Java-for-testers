@@ -1,4 +1,4 @@
- # Java-for-testers
+ # JAVA-FOR-TESTERS
 This is a complete beginner-friendly guide to learning Java with me.  
 
 Hi, I’m Kranthi, a full-time QA professional passionate about learning Java programming to automate tasks using the Selenium tool.  
