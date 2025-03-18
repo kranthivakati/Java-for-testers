@@ -21,6 +21,8 @@ Java serves two primary purposes:
 
 2.For Testers: Java is used to write test automation scripts for testing applications.
 
-Java can be classified into two ways 
+Java can be classified into two ways :
+
 1.core java -> Testers need to learn completely 
+
 2.advance java -> Testers no need to learn only developers need to learn 
