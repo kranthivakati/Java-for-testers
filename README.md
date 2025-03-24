@@ -47,3 +47,21 @@ inside the class write like this
 
 ![image](https://github.com/user-attachments/assets/4ccfa53a-5fc1-4f04-9a2c-762671264cd1)
 
+**compiler erros?**
+
+when we didn't followed the synatx then we will get this syntax error example such as semicolon, bracks, invalid return type, lowercase to uppercase then we will get this type of error.
+
+**what are print statements in JAVA?**
+
+there are two print statements in java that is System.out.println(); and System.out.print();
+where there is no big diference between both 
+print() will print on the same line.
+println() will print in next line
+ln stands for next line.
+
+
+**comments??**
+Bascially in java there are two types of comments are present that are single line comment and multiline comments 
+single line comments stands for // 
+multiple line comments stands for /* and */
+
